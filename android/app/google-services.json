@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "679976666210",
+    "project_id": "cookingapp-5669a",
+    "storage_bucket": "cookingapp-5669a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679976666210:android:0dac6265b9dc3915713d3b",
+        "android_client_info": {
+          "package_name": "com.cookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL6MaJWVoRwJ23gaWfoFAvI4xGLtgnu0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679976666210:android:76ead7005c77ca95713d3b",
+        "android_client_info": {
+          "package_name": "com.miniappfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL6MaJWVoRwJ23gaWfoFAvI4xGLtgnu0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679976666210:android:ee20d1cbc2881eb4713d3b",
+        "android_client_info": {
+          "package_name": "com.minifirestoreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL6MaJWVoRwJ23gaWfoFAvI4xGLtgnu0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679976666210:android:650575cf577a52ab713d3b",
+        "android_client_info": {
+          "package_name": "com.monappfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL6MaJWVoRwJ23gaWfoFAvI4xGLtgnu0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
